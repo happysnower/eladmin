@@ -14,6 +14,11 @@
  Date: 22/12/2019 15:24:33
 */
 
+create database eladmin;
+use eladmin;
+
+
+
 SET NAMES utf8mb4;
 SET FOREIGN_KEY_CHECKS = 0;
 
