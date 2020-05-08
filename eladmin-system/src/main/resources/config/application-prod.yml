@@ -68,7 +68,7 @@ generator:
 #      v2:
 #        host: # 接口域名或外网ip
 
-#是否开启 swagger-ui
+#是否开启 swagger-ui. 生产环境不开启，设置为false。
 swagger:
   enabled: false
 
